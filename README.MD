@@ -44,7 +44,7 @@ To run the project, follow these steps:
 2. Install the Pygame library by running the command: `pip install pygame`.
 3. Clone or download the project files to your local machine.
 4. Navigate to the project directory.
-5. Run the command: `python src/main.py`.
+5. Run the command: `python3 src/main.py`.
 
 Make sure you have the required resources in the appropriate directories as shown in the folder structure.
 
